@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Gopal-dutta/Gopal-dutta/output/github-jungle-lion.svg" />
+  <img alt="GitHub Contribution Jungle" src="https://raw.githubusercontent.com/Gopal-dutta/Gopal-dutta/output/github-jungle-lion.svg" />
 </p>
 
 
