@@ -1,8 +1,6 @@
-[![Profile Views](https://komarev.com/ghpvc/?username=Gopal-dutta&style=flat-square&color=0abde3)](https://github.com/Gopal-dutta)
+# 👋 Hey there! I'm Gopal Dutta                    [![Profile Views](https://komarev.com/ghpvc/?username=Gopal-dutta&style=flat-square&color=0abde3)](https://github.com/Gopal-dutta)
 [![GitHub followers](https://img.shields.io/github/followers/Gopal-dutta?label=Followers&style=flat-square&color=0abde3)](https://github.com/Gopal-dutta?tab=followers)
 [![Stars](https://img.shields.io/github/stars/Gopal-dutta?label=Stars&style=flat-square&color=0abde3)](https://github.com/Gopal-dutta?tab=stars)
-
-# 👋 Hey there! I'm Gopal Dutta
 
 🎓 B.Tech Student | 📊 Data Science, Data Analyst & ML Enthusiast | 🧠 Lifelong Learner  
 🚀 Passionate about solving real-world problems using Machine Learning, Deep Learning and Python.
