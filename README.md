@@ -103,9 +103,17 @@ I love blending statistics, machine learning, and coding into clean, efficient s
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopal-dutta-662bb9184/)
-[![Email](https://img.shields.io/badge/Email-gdutta270@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gdutta270@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-gopal--dutta.github.io-0A66C2?style=flat-square&logo=internet-explorer&logoColor=white)](https://gopal-dutta.github.io/Portfolio-Website/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gopal-dutta-662bb9184/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gdutta270@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://gopal-dutta.github.io/Portfolio-Website/">
+    <img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=flat-square&logo=internet-explorer&logoColor=white" />
+  </a>
+</p>
 
 
 ---
