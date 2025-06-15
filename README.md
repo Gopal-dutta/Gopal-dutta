@@ -24,8 +24,6 @@ I love blending statistics, machine learning, and coding into clean, efficient s
 
 ---
 
-## ⚒️ Tech Stack
-
 ## 🛠️ Tech Stack
 
 ### 🐍 Python & Libraries
