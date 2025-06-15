@@ -33,9 +33,9 @@
 
 ---
 
-## 🦁 Jungle Watcher of Contributions
+## 🐍 GitHub Contribution Snake
 
-> _The king of the jungle watches over these commits..._ 🌿👑
+> _This snake slithers through my commits like a true data-driven python 🐍..._ 🌿👑
 > 
 <p align="left">
   <img alt="snake gif" src="https://github.com/Gopal-dutta/Gopal-dutta/blob/output/github-snake-dark.svg"/>
