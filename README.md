@@ -26,36 +26,68 @@ I love blending statistics, machine learning, and coding into clean, efficient s
 
 ## 🛠️ Tech Stack
 
+## 💻 Programming Languages
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+
 ### 🐍 Python & Libraries
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-### 🤖 Machine Learning & Deep Learning
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)
-![CNN](https://img.shields.io/badge/-CNN-00599C?style=flat&logo=github&logoColor=white)
-![Ensemble Methods](https://img.shields.io/badge/-Ensemble%20Methods-7A1FA2?style=flat&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/-LightGBM-00C292?style=flat&logo=lightgbm&logoColor=white)
-
-### 📊 Data Analysis & Visualization
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)](https://numpy.org/)
+[![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-CC0000?style=flat&logo=python&logoColor=white)](https://www.sqlalchemy.org/)
+[![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
+[![Werkzeug](https://img.shields.io/badge/-Werkzeug-308446?style=flat&logo=python&logoColor=white)](https://werkzeug.palletsprojects.com/)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
 
 ### 🌐 Web Technologies
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+[![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+### 🤖 Machine Learning Libraries
+[![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Ensemble Methods](https://img.shields.io/badge/-Ensemble%20Methods-7A1FA2?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/modules/ensemble.html)
+[![XGBoost](https://img.shields.io/badge/-XGBoost-0072C6?style=flat&logo=github&logoColor=white)](https://xgboost.ai/)
+[![LightGBM](https://img.shields.io/badge/-LightGBM-00C292?style=flat&logo=lightgbm&logoColor=white)](https://lightgbm.readthedocs.io/)
+[![Gradient Boosting](https://img.shields.io/badge/-Gradient%20Boosting-5319e7?style=flat&logo=python&logoColor=white)](https://scikit-learn.org/stable/modules/ensemble.html#gradient-tree-boosting)
 
+### 🧠 Deep Learning Libraries & Concepts
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)](https://keras.io/)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Backpropagation](https://img.shields.io/badge/-Backpropagation-333333?style=flat&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Backpropagation)
+[![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-6929C4?style=flat&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_neural_network)
+[![CNN](https://img.shields.io/badge/-CNN-00599C?style=flat&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 
+### 💬 NLP
+[![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-4B8BBE?style=flat&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Natural_language_processing)
+[![NLTK](https://img.shields.io/badge/-NLTK-4B8BBE?style=flat&logo=python&logoColor=white)](https://www.nltk.org/)
+
+### 📈 Data Analysis Tools
+[![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/)
+
+### 📊 Data Visualization Libraries
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/-Seaborn-579ACA?style=flat&logo=python&logoColor=white)](https://seaborn.pydata.org/)
+
+## 🗄️ Databases & Tools
+
+[![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+
+## ⚙️ Developer Tools
+
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+> *“and many more.......”* 📈
 ---
 
 ## 🐍 GitHub Contribution Snake
