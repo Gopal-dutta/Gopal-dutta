@@ -88,6 +88,9 @@ I love blending statistics, machine learning, and coding into clean, efficient s
 ---
 
 ## 🐍 GitHub Contribution Snake
+[![Profile Views](https://komarev.com/ghpvc/?username=Gopal-dutta&style=flat-square&color=0abde3)](https://github.com/Gopal-dutta)
+[![GitHub followers](https://img.shields.io/github/followers/Gopal-dutta?label=Followers&style=flat-square&color=0abde3)](https://github.com/Gopal-dutta?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Gopal-dutta?label=Stars&style=flat-square&color=0abde3)](https://github.com/Gopal-dutta?tab=stars)
 
 > _This snake slithers through my commits like a true data-driven python 🐍..._ 🌿👑
 > 
@@ -107,9 +110,6 @@ I love blending statistics, machine learning, and coding into clean, efficient s
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0A66C2?style=flat-square&logo=internet-explorer&logoColor=white)](https://gopal-dutta.github.io/Portfolio-Website/)
 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Gopal-dutta&style=flat-square&color=0abde3)](https://github.com/Gopal-dutta)
-[![GitHub followers](https://img.shields.io/github/followers/Gopal-dutta?label=Followers&style=flat-square&color=0abde3)](https://github.com/Gopal-dutta?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Gopal-dutta?label=Stars&style=flat-square&color=0abde3)](https://github.com/Gopal-dutta?tab=stars)
 
 
 ---
