@@ -38,7 +38,7 @@
 > _The king of the jungle watches over these commits..._ 🌿👑
 > 
 <p align="center">
-  <img src="https://media.giphy.com/media/Ka2NAhphLdqXC/giphy.gif" alt="Lion GIF" width="400"/>
+  <img alt="Lion Contribution Jungle" src="https://github.com/Gopal-dutta/Gopal-dutta/blob/output/github-jungle-lion.svg" />
 </p>
 
 
