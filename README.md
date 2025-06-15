@@ -37,13 +37,11 @@
 
 > _The king of the jungle watches over these commits..._ 🌿👑
 > 
-<p align="center">
-  <img src="https://media.tenor.com/fkdMHuRnxK4AAAAd/lion-roar.gif" width="400" alt="Lion Roar" />
+<p align="left">
+  <img alt="snake gif" src="https://github.com/Gopal-dutta/Gopal-dutta/blob/output/github-snake-dark.svg"/>
 </p>
 
-<p align="center">
-  <img alt="GitHub Contribution Jungle" src="https://raw.githubusercontent.com/Gopal-dutta/Gopal-dutta/output/github-jungle-lion.svg" />
-</p>
+
 
 
 ## 📬 Connect With Me
