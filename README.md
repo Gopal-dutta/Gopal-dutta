@@ -21,7 +21,9 @@ I love turning data into stories and building ML projects that solve real-world 
 
 ## 🐍 Play Snake!
 
-![Snake gif](https://github.com/Gopal-dutta/Gopal-dutta/blob/output/github-contribution-grid-snake.svg)
+<p align="left">
+  <img alt="snake gif" src="https://github.com/agrawalchaitany/agrawalchaitany/blob/output/github-snake-dark.svg"/>
+</p>
 
 ## 📫 Let's Connect
 
