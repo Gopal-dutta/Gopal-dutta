@@ -33,16 +33,14 @@
 
 ---
 
-## 🐍 Watch my GitHub contributions come alive — Snake style!
+## 🦁 Jungle Watcher of Contributions
 
-> Wanna see my commits get eaten? 🐍✨
-
-
+> _The king of the jungle watches over these commits..._ 🌿👑
+> 
 <p align="center">
-  <img alt="GitHub Snake" src="https://github.com/Gopal-dutta/Gopal-dutta/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://media.giphy.com/media/Ka2NAhphLdqXC/giphy.gif" alt="Lion GIF" width="400"/>
 </p>
 
----
 
 ## 📬 Connect With Me
 
