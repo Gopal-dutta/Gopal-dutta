@@ -61,9 +61,6 @@ I love blending statistics, machine learning, and coding into clean, efficient s
 [![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-6929C4?style=flat&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_neural_network)
 [![CNN](https://img.shields.io/badge/-CNN-00599C?style=flat&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 
-### 💬 NLP
-[![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-4B8BBE?style=flat&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Natural_language_processing)
-[![NLTK](https://img.shields.io/badge/-NLTK-4B8BBE?style=flat&logo=python&logoColor=white)](https://www.nltk.org/)
 
 ### 📈 Data Analysis Tools
 [![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
