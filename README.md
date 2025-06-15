@@ -33,12 +33,13 @@
 
 ---
 
-## 🐍 Contribution Snake Game
+## 🐍 Watch my GitHub contributions come alive — Snake style!
 
 > Wanna see my commits get eaten? 🐍✨
 
+
 <p align="center">
-  <img alt="snake gif" src="https://github.com/Gopal-dutta/Gopal-dutta/blob/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Snake" src="https://github.com/Gopal-dutta/Gopal-dutta/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
