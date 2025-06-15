@@ -139,5 +139,7 @@ I love blending statistics, machine learning, and coding into clean, efficient s
 ---
 
 > _Thanks for visiting my profile!_ 😎
+> &nbsp;&nbsp;&nbsp;
 > _Drop a ⭐ on your favorite project !_
+> &nbsp;&nbsp;&nbsp;
 > 🤝 Let’s build something meaningful together — feel free to reach out!
